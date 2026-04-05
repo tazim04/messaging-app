@@ -14,9 +14,6 @@ Link to TeeChat: www.teechat.chat
 
 **Database:** MongoDB, Mongoose
 
-**Deployment:** AWS EC2 Instance
-
-
 ## Features
 
 - Real-time chating between users
